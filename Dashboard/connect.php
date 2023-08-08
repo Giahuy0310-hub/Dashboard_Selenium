@@ -5,8 +5,8 @@
             $host = 'localhost';
             $port = '5432';
             $name = 'postgres';
-            $pass = 'abcd@1234';
-            $dbname = 'thuocsi_selenium';
+            $pass = '123';
+            $dbname = 'web';
             $dns = "pgsql:host=$host port=$port dbname=$dbname user=$name;password=$pass";
             $this->db=new PDO($dns);
         }
