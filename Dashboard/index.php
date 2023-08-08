@@ -1,6 +1,5 @@
 <?php include "inc/header.php";
     include_once('format/format.php');
-	// avssa
 
 ?>
             <! END OF ASIDE>
